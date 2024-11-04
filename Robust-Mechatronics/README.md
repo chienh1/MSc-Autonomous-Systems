@@ -6,7 +6,7 @@ This directoy contains the files for the labs in the MF2043 HT24 Robust Mechatro
 ## Labs Overview
 
 ### Lab 1: Motor Control Using PWM
-Explores driving actuators with PWM, focusing on circuit techniques like bootstrapping for efficient motor control and includes mechanisms for safe current dissipation.
+Learned driving actuators with PWM, focusing on bootstrapping for motor control and includes mechanisms for safe current dissipation.
 
 ### Lab 2: Amplifier and Analog Filters Design
 Involves building and testing amplifier circuits to understand the effects of component values on filter selectivity and gain.
