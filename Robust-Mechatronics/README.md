@@ -1,7 +1,7 @@
 # Lab Work for Robust Mechatronics
 
 ## Description
-This directoy contains the files for the labs in the MF2043 HT24 Robust Mechatronics course at KTH, including schematics, board layouts, and Arduino code. In the labs, we designed, simulated and monitored the systems.
+This directoy contains the files for the labs in the MF2043 HT24 Robust Mechatronics course at KTH, including schematics, board layouts, and Arduino code. In the labs, we designed, simulated and monitored circuits.
 
 ## Labs Overview
 
