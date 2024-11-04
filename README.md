@@ -1,1 +1,1 @@
-# msc-autonomous-systems
+# MSc-Autonomous-Systems
