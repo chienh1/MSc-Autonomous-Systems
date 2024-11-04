@@ -8,8 +8,7 @@ The robot is engineered to harvest olives autonomously with minimal human superv
 
 ### Subsystems
 1. Locomotion System
-2. Power System
-3. Energy and Docking System
-4. Positioning system, Vision system
-5. Electric Lift actuation, Robotic arm
-6. Computation and Communication
+2. Energy and Docking System
+3. Positioning system, Vision system
+4. Electric Lift actuation, Robotic arm
+5. Computation and Communication
