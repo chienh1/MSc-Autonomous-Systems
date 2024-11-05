@@ -22,5 +22,7 @@ This directory contains materials for the MF2007 HT24 Dynamics and Motion Contro
 - **Workshops**
   - Rapid Control Prototyping: Hands-on sessions using Texas Instruments C2000 processors, LAUNCHXL-F28379D and DC motors to implement control solutions rapidly.
 
+In the exercises and workshops, I use Matlab and Simulink as tools.
+
 ## Course Status
 The course is currently ongoing. Detailed reports and additional resources will be uploaded upon completion of the course.
