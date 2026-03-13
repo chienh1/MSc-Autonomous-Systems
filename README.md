@@ -21,8 +21,6 @@ This repository shows the school projects/works for my Master's in Autonomous Sy
 | Machine Learning: Supervised Methods | |
 | Research Methodology and Scientific Writing |  |
 
----
-
 ### Minor – Entrepreneurship
 
 | Course | Project in Repo |
